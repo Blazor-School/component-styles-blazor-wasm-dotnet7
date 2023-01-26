@@ -1,0 +1,4 @@
+﻿.overriding ::deep .scoped
+{
+    color: green;
+}
